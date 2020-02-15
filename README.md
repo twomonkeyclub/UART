@@ -1,7 +1,7 @@
 
 UART设计与验证
 ===============
-实现一个用于连接在ARM内核中的一种APB总线上的UART（Universal Asynchronous Receiver/Transmitter）模块，包括设计与验证两部分。
+实现一个在ARM中通过APB总线连接的UART模块（Universal Asynchronous Receiver/Transmitter）模块，包括设计与验证两部分。
 
 ## 项目需求
 
@@ -51,7 +51,7 @@ UART设计与验证
 更多资料
 ------------
 请关注公众号 **“两猿圈”**.
-> * **带你丰富IC相关项目经验，春秋招不愁！！！**
+> * **带你丰富IC相关项目经验，轻松应对校招！！！**
 > * **项目模块详细讲解，在公众号内持续更新！！！**
 
 <div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/test1.jpg" height="258"/> </div>
