@@ -53,7 +53,7 @@ UART设计与验证
 
 框架
 -------------
-<div align=center><img src="https://github.com/qinguoyi/TinyWebServer/blob/master/root/frame.jpg" height="765"/> </div>
+<div align=center><img src="https://github.com/twomonkeyclub/UART/blob/master/utils/frame.png" height="300"/> </div>
 
 
 更多资料
